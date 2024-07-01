@@ -1,0 +1,1502 @@
+[
+    {
+        "_id": "6682aa6e3288b9f267700c5c",
+        "CropType": 1,
+        "CropDays": 1,
+        "Soil Moisture": 630,
+        "Soil Temperature": 19,
+        "Temperature": 33,
+        "Humidity": 52,
+        "Irrigation(Y/N)": 1
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c5d",
+        "CropType": 1,
+        "CropDays": 2,
+        "Soil Moisture": 460,
+        "Soil Temperature": 20,
+        "Temperature": 31,
+        "Humidity": 50,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c5e",
+        "CropType": 1,
+        "CropDays": 3,
+        "Soil Moisture": 230,
+        "Soil Temperature": 22,
+        "Temperature": 33,
+        "Humidity": 48,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c5f",
+        "CropType": 1,
+        "CropDays": 4,
+        "Soil Moisture": 140,
+        "Soil Temperature": 24,
+        "Temperature": 28,
+        "Humidity": 62,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c60",
+        "CropType": 1,
+        "CropDays": 5,
+        "Soil Moisture": 720,
+        "Soil Temperature": 18,
+        "Temperature": 28,
+        "Humidity": 63,
+        "Irrigation(Y/N)": 1
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c61",
+        "CropType": 1,
+        "CropDays": 6,
+        "Soil Moisture": 510,
+        "Soil Temperature": 20,
+        "Temperature": 27,
+        "Humidity": 64,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c62",
+        "CropType": 1,
+        "CropDays": 7,
+        "Soil Moisture": 327,
+        "Soil Temperature": 21,
+        "Temperature": 29,
+        "Humidity": 61,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c63",
+        "CropType": 1,
+        "CropDays": 8,
+        "Soil Moisture": 189,
+        "Soil Temperature": 23,
+        "Temperature": 30,
+        "Humidity": 52,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c64",
+        "CropType": 1,
+        "CropDays": 9,
+        "Soil Moisture": 110,
+        "Soil Temperature": 24,
+        "Temperature": 31,
+        "Humidity": 54,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c65",
+        "CropType": 1,
+        "CropDays": 10,
+        "Soil Moisture": 750,
+        "Soil Temperature": 18,
+        "Temperature": 29,
+        "Humidity": 56,
+        "Irrigation(Y/N)": 1
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c66",
+        "CropType": 1,
+        "CropDays": 11,
+        "Soil Moisture": 528,
+        "Soil Temperature": 20,
+        "Temperature": 28,
+        "Humidity": 57,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c67",
+        "CropType": 1,
+        "CropDays": 12,
+        "Soil Moisture": 321,
+        "Soil Temperature": 21,
+        "Temperature": 29,
+        "Humidity": 54,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c68",
+        "CropType": 1,
+        "CropDays": 13,
+        "Soil Moisture": 147,
+        "Soil Temperature": 24,
+        "Temperature": 27,
+        "Humidity": 56,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c69",
+        "CropType": 1,
+        "CropDays": 14,
+        "Soil Moisture": 621,
+        "Soil Temperature": 19,
+        "Temperature": 26,
+        "Humidity": 58,
+        "Irrigation(Y/N)": 1
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c6a",
+        "CropType": 1,
+        "CropDays": 15,
+        "Soil Moisture": 426,
+        "Soil Temperature": 21,
+        "Temperature": 24,
+        "Humidity": 57,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c6b",
+        "CropType": 1,
+        "CropDays": 16,
+        "Soil Moisture": 254,
+        "Soil Temperature": 22,
+        "Temperature": 23,
+        "Humidity": 56,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c6c",
+        "CropType": 1,
+        "CropDays": 17,
+        "Soil Moisture": 118,
+        "Soil Temperature": 24,
+        "Temperature": 23,
+        "Humidity": 54,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c6d",
+        "CropType": 1,
+        "CropDays": 18,
+        "Soil Moisture": 693,
+        "Soil Temperature": 19,
+        "Temperature": 25,
+        "Humidity": 62,
+        "Irrigation(Y/N)": 1
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c6e",
+        "CropType": 1,
+        "CropDays": 19,
+        "Soil Moisture": 480,
+        "Soil Temperature": 20,
+        "Temperature": 28,
+        "Humidity": 64,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c6f",
+        "CropType": 1,
+        "CropDays": 20,
+        "Soil Moisture": 326,
+        "Soil Temperature": 21,
+        "Temperature": 29,
+        "Humidity": 63,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c70",
+        "CropType": 1,
+        "CropDays": 21,
+        "Soil Moisture": 211,
+        "Soil Temperature": 22,
+        "Temperature": 32,
+        "Humidity": 67,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c71",
+        "CropType": 1,
+        "CropDays": 22,
+        "Soil Moisture": 126,
+        "Soil Temperature": 24,
+        "Temperature": 33,
+        "Humidity": 64,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c72",
+        "CropType": 1,
+        "CropDays": 23,
+        "Soil Moisture": 746,
+        "Soil Temperature": 18,
+        "Temperature": 31,
+        "Humidity": 63,
+        "Irrigation(Y/N)": 1
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c73",
+        "CropType": 1,
+        "CropDays": 24,
+        "Soil Moisture": 524,
+        "Soil Temperature": 20,
+        "Temperature": 30,
+        "Humidity": 64,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c74",
+        "CropType": 1,
+        "CropDays": 25,
+        "Soil Moisture": 356,
+        "Soil Temperature": 21,
+        "Temperature": 30,
+        "Humidity": 58,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c75",
+        "CropType": 1,
+        "CropDays": 26,
+        "Soil Moisture": 214,
+        "Soil Temperature": 22,
+        "Temperature": 31,
+        "Humidity": 57,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c76",
+        "CropType": 1,
+        "CropDays": 27,
+        "Soil Moisture": 156,
+        "Soil Temperature": 23,
+        "Temperature": 29,
+        "Humidity": 63,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c77",
+        "CropType": 1,
+        "CropDays": 28,
+        "Soil Moisture": 108,
+        "Soil Temperature": 24,
+        "Temperature": 28,
+        "Humidity": 62,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c78",
+        "CropType": 1,
+        "CropDays": 29,
+        "Soil Moisture": 699,
+        "Soil Temperature": 19,
+        "Temperature": 27,
+        "Humidity": 64,
+        "Irrigation(Y/N)": 1
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c79",
+        "CropType": 1,
+        "CropDays": 30,
+        "Soil Moisture": 545,
+        "Soil Temperature": 20,
+        "Temperature": 26,
+        "Humidity": 62,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c7a",
+        "CropType": 1,
+        "CropDays": 31,
+        "Soil Moisture": 368,
+        "Soil Temperature": 21,
+        "Temperature": 24,
+        "Humidity": 67,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c7b",
+        "CropType": 1,
+        "CropDays": 32,
+        "Soil Moisture": 245,
+        "Soil Temperature": 23,
+        "Temperature": 24,
+        "Humidity": 68,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c7c",
+        "CropType": 1,
+        "CropDays": 33,
+        "Soil Moisture": 168,
+        "Soil Temperature": 23,
+        "Temperature": 23,
+        "Humidity": 69,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c7d",
+        "CropType": 1,
+        "CropDays": 34,
+        "Soil Moisture": 145,
+        "Soil Temperature": 24,
+        "Temperature": 25,
+        "Humidity": 72,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c7e",
+        "CropType": 1,
+        "CropDays": 35,
+        "Soil Moisture": 714,
+        "Soil Temperature": 18,
+        "Temperature": 27,
+        "Humidity": 68,
+        "Irrigation(Y/N)": 1
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c7f",
+        "CropType": 1,
+        "CropDays": 36,
+        "Soil Moisture": 512,
+        "Soil Temperature": 20,
+        "Temperature": 26,
+        "Humidity": 65,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c80",
+        "CropType": 1,
+        "CropDays": 37,
+        "Soil Moisture": 346,
+        "Soil Temperature": 21,
+        "Temperature": 26,
+        "Humidity": 64,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c81",
+        "CropType": 1,
+        "CropDays": 38,
+        "Soil Moisture": 203,
+        "Soil Temperature": 23,
+        "Temperature": 28,
+        "Humidity": 63,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c82",
+        "CropType": 1,
+        "CropDays": 39,
+        "Soil Moisture": 148,
+        "Soil Temperature": 24,
+        "Temperature": 27,
+        "Humidity": 61,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c83",
+        "CropType": 1,
+        "CropDays": 40,
+        "Soil Moisture": 103,
+        "Soil Temperature": 24,
+        "Temperature": 25,
+        "Humidity": 57,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c84",
+        "CropType": 1,
+        "CropDays": 41,
+        "Soil Moisture": 750,
+        "Soil Temperature": 18,
+        "Temperature": 26,
+        "Humidity": 55,
+        "Irrigation(Y/N)": 1
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c85",
+        "CropType": 1,
+        "CropDays": 42,
+        "Soil Moisture": 580,
+        "Soil Temperature": 20,
+        "Temperature": 24,
+        "Humidity": 54,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c86",
+        "CropType": 1,
+        "CropDays": 43,
+        "Soil Moisture": 396,
+        "Soil Temperature": 21,
+        "Temperature": 24,
+        "Humidity": 56,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c87",
+        "CropType": 1,
+        "CropDays": 44,
+        "Soil Moisture": 285,
+        "Soil Temperature": 22,
+        "Temperature": 28,
+        "Humidity": 54,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c88",
+        "CropType": 1,
+        "CropDays": 45,
+        "Soil Moisture": 198,
+        "Soil Temperature": 23,
+        "Temperature": 26,
+        "Humidity": 57,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c89",
+        "CropType": 1,
+        "CropDays": 46,
+        "Soil Moisture": 130,
+        "Soil Temperature": 24,
+        "Temperature": 24,
+        "Humidity": 54,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c8a",
+        "CropType": 1,
+        "CropDays": 47,
+        "Soil Moisture": 567,
+        "Soil Temperature": 20,
+        "Temperature": 23,
+        "Humidity": 56,
+        "Irrigation(Y/N)": 1
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c8b",
+        "CropType": 1,
+        "CropDays": 48,
+        "Soil Moisture": 358,
+        "Soil Temperature": 21,
+        "Temperature": 24,
+        "Humidity": 58,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c8c",
+        "CropType": 1,
+        "CropDays": 49,
+        "Soil Moisture": 214,
+        "Soil Temperature": 22,
+        "Temperature": 25,
+        "Humidity": 57,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c8d",
+        "CropType": 1,
+        "CropDays": 50,
+        "Soil Moisture": 158,
+        "Soil Temperature": 23,
+        "Temperature": 23,
+        "Humidity": 56,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c8e",
+        "CropType": 1,
+        "CropDays": 51,
+        "Soil Moisture": 690,
+        "Soil Temperature": 19,
+        "Temperature": 22,
+        "Humidity": 54,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c8f",
+        "CropType": 1,
+        "CropDays": 52,
+        "Soil Moisture": 520,
+        "Soil Temperature": 20,
+        "Temperature": 21,
+        "Humidity": 54,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c90",
+        "CropType": 1,
+        "CropDays": 53,
+        "Soil Moisture": 436,
+        "Soil Temperature": 21,
+        "Temperature": 22,
+        "Humidity": 52,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c91",
+        "CropType": 1,
+        "CropDays": 54,
+        "Soil Moisture": 342,
+        "Soil Temperature": 22,
+        "Temperature": 24,
+        "Humidity": 56,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c92",
+        "CropType": 1,
+        "CropDays": 55,
+        "Soil Moisture": 267,
+        "Soil Temperature": 22,
+        "Temperature": 23,
+        "Humidity": 57,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c93",
+        "CropType": 1,
+        "CropDays": 56,
+        "Soil Moisture": 196,
+        "Soil Temperature": 23,
+        "Temperature": 25,
+        "Humidity": 54,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c94",
+        "CropType": 1,
+        "CropDays": 57,
+        "Soil Moisture": 114,
+        "Soil Temperature": 24,
+        "Temperature": 24,
+        "Humidity": 58,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c95",
+        "CropType": 1,
+        "CropDays": 58,
+        "Soil Moisture": 730,
+        "Soil Temperature": 18,
+        "Temperature": 23,
+        "Humidity": 56,
+        "Irrigation(Y/N)": 1
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c96",
+        "CropType": 1,
+        "CropDays": 59,
+        "Soil Moisture": 546,
+        "Soil Temperature": 20,
+        "Temperature": 23,
+        "Humidity": 57,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c97",
+        "CropType": 1,
+        "CropDays": 60,
+        "Soil Moisture": 410,
+        "Soil Temperature": 21,
+        "Temperature": 22,
+        "Humidity": 61,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c98",
+        "CropType": 1,
+        "CropDays": 61,
+        "Soil Moisture": 308,
+        "Soil Temperature": 22,
+        "Temperature": 21,
+        "Humidity": 58,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c99",
+        "CropType": 1,
+        "CropDays": 62,
+        "Soil Moisture": 268,
+        "Soil Temperature": 22,
+        "Temperature": 21,
+        "Humidity": 59,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c9a",
+        "CropType": 1,
+        "CropDays": 63,
+        "Soil Moisture": 186,
+        "Soil Temperature": 23,
+        "Temperature": 21,
+        "Humidity": 60,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c9b",
+        "CropType": 1,
+        "CropDays": 64,
+        "Soil Moisture": 102,
+        "Soil Temperature": 24,
+        "Temperature": 24,
+        "Humidity": 58,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c9c",
+        "CropType": 1,
+        "CropDays": 65,
+        "Soil Moisture": 760,
+        "Soil Temperature": 18,
+        "Temperature": 24,
+        "Humidity": 59,
+        "Irrigation(Y/N)": 1
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c9d",
+        "CropType": 1,
+        "CropDays": 66,
+        "Soil Moisture": 568,
+        "Soil Temperature": 20,
+        "Temperature": 25,
+        "Humidity": 57,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c9e",
+        "CropType": 1,
+        "CropDays": 67,
+        "Soil Moisture": 435,
+        "Soil Temperature": 21,
+        "Temperature": 23,
+        "Humidity": 58,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700c9f",
+        "CropType": 1,
+        "CropDays": 68,
+        "Soil Moisture": 312,
+        "Soil Temperature": 22,
+        "Temperature": 24,
+        "Humidity": 59,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700ca0",
+        "CropType": 1,
+        "CropDays": 69,
+        "Soil Moisture": 287,
+        "Soil Temperature": 22,
+        "Temperature": 23,
+        "Humidity": 57,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700ca1",
+        "CropType": 1,
+        "CropDays": 70,
+        "Soil Moisture": 199,
+        "Soil Temperature": 22,
+        "Temperature": 24,
+        "Humidity": 58,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700ca2",
+        "CropType": 1,
+        "CropDays": 71,
+        "Soil Moisture": 156,
+        "Soil Temperature": 23,
+        "Temperature": 22,
+        "Humidity": 63,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700ca3",
+        "CropType": 1,
+        "CropDays": 72,
+        "Soil Moisture": 101,
+        "Soil Temperature": 24,
+        "Temperature": 21,
+        "Humidity": 62,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700ca4",
+        "CropType": 1,
+        "CropDays": 73,
+        "Soil Moisture": 768,
+        "Soil Temperature": 18,
+        "Temperature": 19,
+        "Humidity": 64,
+        "Irrigation(Y/N)": 1
+    },
+    {
+        "_id": "6682aa6e3288b9f267700ca5",
+        "CropType": 1,
+        "CropDays": 74,
+        "Soil Moisture": 589,
+        "Soil Temperature": 20,
+        "Temperature": 20,
+        "Humidity": 62,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700ca6",
+        "CropType": 1,
+        "CropDays": 75,
+        "Soil Moisture": 478,
+        "Soil Temperature": 20,
+        "Temperature": 21,
+        "Humidity": 59,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700ca7",
+        "CropType": 1,
+        "CropDays": 76,
+        "Soil Moisture": 386,
+        "Soil Temperature": 21,
+        "Temperature": 21,
+        "Humidity": 58,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700ca8",
+        "CropType": 1,
+        "CropDays": 77,
+        "Soil Moisture": 765,
+        "Soil Temperature": 18,
+        "Temperature": 22,
+        "Humidity": 57,
+        "Irrigation(Y/N)": 1
+    },
+    {
+        "_id": "6682aa6e3288b9f267700ca9",
+        "CropType": 1,
+        "CropDays": 78,
+        "Soil Moisture": 630,
+        "Soil Temperature": 19,
+        "Temperature": 23,
+        "Humidity": 59,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700caa",
+        "CropType": 1,
+        "CropDays": 79,
+        "Soil Moisture": 542,
+        "Soil Temperature": 20,
+        "Temperature": 21,
+        "Humidity": 58,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cab",
+        "CropType": 1,
+        "CropDays": 80,
+        "Soil Moisture": 430,
+        "Soil Temperature": 20,
+        "Temperature": 22,
+        "Humidity": 61,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cac",
+        "CropType": 1,
+        "CropDays": 81,
+        "Soil Moisture": 326,
+        "Soil Temperature": 22,
+        "Temperature": 20,
+        "Humidity": 62,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cad",
+        "CropType": 1,
+        "CropDays": 82,
+        "Soil Moisture": 658,
+        "Soil Temperature": 19,
+        "Temperature": 19,
+        "Humidity": 79,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cae",
+        "CropType": 1,
+        "CropDays": 83,
+        "Soil Moisture": 599,
+        "Soil Temperature": 20,
+        "Temperature": 19,
+        "Humidity": 81,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700caf",
+        "CropType": 1,
+        "CropDays": 84,
+        "Soil Moisture": 542,
+        "Soil Temperature": 20,
+        "Temperature": 18,
+        "Humidity": 82,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cb0",
+        "CropType": 1,
+        "CropDays": 85,
+        "Soil Moisture": 523,
+        "Soil Temperature": 20,
+        "Temperature": 18,
+        "Humidity": 79,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cb1",
+        "CropType": 1,
+        "CropDays": 86,
+        "Soil Moisture": 420,
+        "Soil Temperature": 21,
+        "Temperature": 17,
+        "Humidity": 79,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cb2",
+        "CropType": 1,
+        "CropDays": 87,
+        "Soil Moisture": 315,
+        "Soil Temperature": 22,
+        "Temperature": 18,
+        "Humidity": 82,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cb3",
+        "CropType": 1,
+        "CropDays": 88,
+        "Soil Moisture": 260,
+        "Soil Temperature": 22,
+        "Temperature": 19,
+        "Humidity": 81,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cb4",
+        "CropType": 1,
+        "CropDays": 89,
+        "Soil Moisture": 142,
+        "Soil Temperature": 23,
+        "Temperature": 20,
+        "Humidity": 79,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cb5",
+        "CropType": 1,
+        "CropDays": 90,
+        "Soil Moisture": 108,
+        "Soil Temperature": 25,
+        "Temperature": 21,
+        "Humidity": 78,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cb6",
+        "CropType": 1,
+        "CropDays": 91,
+        "Soil Moisture": 654,
+        "Soil Temperature": 19,
+        "Temperature": 21,
+        "Humidity": 77,
+        "Irrigation(Y/N)": 1
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cb7",
+        "CropType": 1,
+        "CropDays": 92,
+        "Soil Moisture": 425,
+        "Soil Temperature": 21,
+        "Temperature": 22,
+        "Humidity": 77,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cb8",
+        "CropType": 1,
+        "CropDays": 93,
+        "Soil Moisture": 325,
+        "Soil Temperature": 21,
+        "Temperature": 19,
+        "Humidity": 75,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cb9",
+        "CropType": 1,
+        "CropDays": 94,
+        "Soil Moisture": 208,
+        "Soil Temperature": 23,
+        "Temperature": 20,
+        "Humidity": 68,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cba",
+        "CropType": 1,
+        "CropDays": 95,
+        "Soil Moisture": 135,
+        "Soil Temperature": 24,
+        "Temperature": 19,
+        "Humidity": 69,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cbb",
+        "CropType": 1,
+        "CropDays": 96,
+        "Soil Moisture": 564,
+        "Soil Temperature": 20,
+        "Temperature": 18,
+        "Humidity": 64,
+        "Irrigation(Y/N)": 1
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cbc",
+        "CropType": 1,
+        "CropDays": 97,
+        "Soil Moisture": 423,
+        "Soil Temperature": 21,
+        "Temperature": 21,
+        "Humidity": 67,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cbd",
+        "CropType": 1,
+        "CropDays": 98,
+        "Soil Moisture": 328,
+        "Soil Temperature": 21,
+        "Temperature": 20,
+        "Humidity": 62,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cbe",
+        "CropType": 1,
+        "CropDays": 99,
+        "Soil Moisture": 235,
+        "Soil Temperature": 22,
+        "Temperature": 21,
+        "Humidity": 64,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cbf",
+        "CropType": 1,
+        "CropDays": 100,
+        "Soil Moisture": 142,
+        "Soil Temperature": 23,
+        "Temperature": 20,
+        "Humidity": 58,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cc0",
+        "CropType": 2,
+        "CropDays": 1,
+        "Soil Moisture": 580,
+        "Soil Temperature": 20,
+        "Temperature": 32,
+        "Humidity": 55,
+        "Irrigation(Y/N)": 1
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cc1",
+        "CropType": 2,
+        "CropDays": 3,
+        "Soil Moisture": 420,
+        "Soil Temperature": 21,
+        "Temperature": 31,
+        "Humidity": 54,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cc2",
+        "CropType": 2,
+        "CropDays": 5,
+        "Soil Moisture": 321,
+        "Soil Temperature": 22,
+        "Temperature": 32,
+        "Humidity": 56,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cc3",
+        "CropType": 2,
+        "CropDays": 7,
+        "Soil Moisture": 214,
+        "Soil Temperature": 23,
+        "Temperature": 30,
+        "Humidity": 58,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cc4",
+        "CropType": 2,
+        "CropDays": 9,
+        "Soil Moisture": 124,
+        "Soil Temperature": 24,
+        "Temperature": 29,
+        "Humidity": 57,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cc5",
+        "CropType": 2,
+        "CropDays": 11,
+        "Soil Moisture": 650,
+        "Soil Temperature": 19,
+        "Temperature": 28,
+        "Humidity": 59,
+        "Irrigation(Y/N)": 1
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cc6",
+        "CropType": 2,
+        "CropDays": 13,
+        "Soil Moisture": 463,
+        "Soil Temperature": 20,
+        "Temperature": 29,
+        "Humidity": 61,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cc7",
+        "CropType": 2,
+        "CropDays": 15,
+        "Soil Moisture": 310,
+        "Soil Temperature": 21,
+        "Temperature": 30,
+        "Humidity": 62,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cc8",
+        "CropType": 2,
+        "CropDays": 17,
+        "Soil Moisture": 123,
+        "Soil Temperature": 24,
+        "Temperature": 31,
+        "Humidity": 64,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cc9",
+        "CropType": 2,
+        "CropDays": 19,
+        "Soil Moisture": 720,
+        "Soil Temperature": 18,
+        "Temperature": 29,
+        "Humidity": 65,
+        "Irrigation(Y/N)": 1
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cca",
+        "CropType": 2,
+        "CropDays": 21,
+        "Soil Moisture": 589,
+        "Soil Temperature": 20,
+        "Temperature": 28,
+        "Humidity": 63,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700ccb",
+        "CropType": 2,
+        "CropDays": 23,
+        "Soil Moisture": 462,
+        "Soil Temperature": 21,
+        "Temperature": 29,
+        "Humidity": 65,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700ccc",
+        "CropType": 2,
+        "CropDays": 25,
+        "Soil Moisture": 314,
+        "Soil Temperature": 22,
+        "Temperature": 27,
+        "Humidity": 64,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700ccd",
+        "CropType": 2,
+        "CropDays": 27,
+        "Soil Moisture": 235,
+        "Soil Temperature": 23,
+        "Temperature": 26,
+        "Humidity": 67,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cce",
+        "CropType": 2,
+        "CropDays": 29,
+        "Soil Moisture": 125,
+        "Soil Temperature": 24,
+        "Temperature": 28,
+        "Humidity": 62,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700ccf",
+        "CropType": 2,
+        "CropDays": 31,
+        "Soil Moisture": 694,
+        "Soil Temperature": 19,
+        "Temperature": 27,
+        "Humidity": 63,
+        "Irrigation(Y/N)": 1
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cd0",
+        "CropType": 2,
+        "CropDays": 33,
+        "Soil Moisture": 536,
+        "Soil Temperature": 20,
+        "Temperature": 27,
+        "Humidity": 61,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cd1",
+        "CropType": 2,
+        "CropDays": 35,
+        "Soil Moisture": 421,
+        "Soil Temperature": 21,
+        "Temperature": 28,
+        "Humidity": 63,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cd2",
+        "CropType": 2,
+        "CropDays": 37,
+        "Soil Moisture": 312,
+        "Soil Temperature": 22,
+        "Temperature": 29,
+        "Humidity": 58,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cd3",
+        "CropType": 2,
+        "CropDays": 39,
+        "Soil Moisture": 213,
+        "Soil Temperature": 23,
+        "Temperature": 30,
+        "Humidity": 59,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cd4",
+        "CropType": 2,
+        "CropDays": 41,
+        "Soil Moisture": 114,
+        "Soil Temperature": 24,
+        "Temperature": 31,
+        "Humidity": 58,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cd5",
+        "CropType": 2,
+        "CropDays": 43,
+        "Soil Moisture": 702,
+        "Soil Temperature": 19,
+        "Temperature": 31,
+        "Humidity": 57,
+        "Irrigation(Y/N)": 1
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cd6",
+        "CropType": 2,
+        "CropDays": 45,
+        "Soil Moisture": 546,
+        "Soil Temperature": 19,
+        "Temperature": 30,
+        "Humidity": 56,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cd7",
+        "CropType": 2,
+        "CropDays": 47,
+        "Soil Moisture": 432,
+        "Soil Temperature": 20,
+        "Temperature": 29,
+        "Humidity": 62,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cd8",
+        "CropType": 2,
+        "CropDays": 49,
+        "Soil Moisture": 324,
+        "Soil Temperature": 22,
+        "Temperature": 28,
+        "Humidity": 61,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cd9",
+        "CropType": 2,
+        "CropDays": 51,
+        "Soil Moisture": 225,
+        "Soil Temperature": 23,
+        "Temperature": 27,
+        "Humidity": 63,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cda",
+        "CropType": 2,
+        "CropDays": 53,
+        "Soil Moisture": 145,
+        "Soil Temperature": 23,
+        "Temperature": 27,
+        "Humidity": 64,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cdb",
+        "CropType": 2,
+        "CropDays": 55,
+        "Soil Moisture": 698,
+        "Soil Temperature": 19,
+        "Temperature": 28,
+        "Humidity": 65,
+        "Irrigation(Y/N)": 1
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cdc",
+        "CropType": 2,
+        "CropDays": 57,
+        "Soil Moisture": 534,
+        "Soil Temperature": 20,
+        "Temperature": 29,
+        "Humidity": 62,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cdd",
+        "CropType": 2,
+        "CropDays": 59,
+        "Soil Moisture": 425,
+        "Soil Temperature": 21,
+        "Temperature": 28,
+        "Humidity": 59,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cde",
+        "CropType": 2,
+        "CropDays": 61,
+        "Soil Moisture": 315,
+        "Soil Temperature": 22,
+        "Temperature": 27,
+        "Humidity": 62,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cdf",
+        "CropType": 2,
+        "CropDays": 63,
+        "Soil Moisture": 214,
+        "Soil Temperature": 23,
+        "Temperature": 26,
+        "Humidity": 57,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700ce0",
+        "CropType": 2,
+        "CropDays": 65,
+        "Soil Moisture": 132,
+        "Soil Temperature": 24,
+        "Temperature": 25,
+        "Humidity": 58,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700ce1",
+        "CropType": 2,
+        "CropDays": 67,
+        "Soil Moisture": 702,
+        "Soil Temperature": 18,
+        "Temperature": 26,
+        "Humidity": 59,
+        "Irrigation(Y/N)": 1
+    },
+    {
+        "_id": "6682aa6e3288b9f267700ce2",
+        "CropType": 2,
+        "CropDays": 69,
+        "Soil Moisture": 546,
+        "Soil Temperature": 20,
+        "Temperature": 26,
+        "Humidity": 61,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700ce3",
+        "CropType": 2,
+        "CropDays": 71,
+        "Soil Moisture": 431,
+        "Soil Temperature": 21,
+        "Temperature": 27,
+        "Humidity": 62,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700ce4",
+        "CropType": 2,
+        "CropDays": 73,
+        "Soil Moisture": 320,
+        "Soil Temperature": 22,
+        "Temperature": 28,
+        "Humidity": 63,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700ce5",
+        "CropType": 2,
+        "CropDays": 75,
+        "Soil Moisture": 223,
+        "Soil Temperature": 23,
+        "Temperature": 26,
+        "Humidity": 59,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700ce6",
+        "CropType": 2,
+        "CropDays": 77,
+        "Soil Moisture": 132,
+        "Soil Temperature": 23,
+        "Temperature": 25,
+        "Humidity": 58,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700ce7",
+        "CropType": 2,
+        "CropDays": 79,
+        "Soil Moisture": 712,
+        "Soil Temperature": 18,
+        "Temperature": 25,
+        "Humidity": 58,
+        "Irrigation(Y/N)": 1
+    },
+    {
+        "_id": "6682aa6e3288b9f267700ce8",
+        "CropType": 2,
+        "CropDays": 81,
+        "Soil Moisture": 562,
+        "Soil Temperature": 20,
+        "Temperature": 24,
+        "Humidity": 59,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700ce9",
+        "CropType": 2,
+        "CropDays": 83,
+        "Soil Moisture": 445,
+        "Soil Temperature": 20,
+        "Temperature": 25,
+        "Humidity": 61,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cea",
+        "CropType": 2,
+        "CropDays": 85,
+        "Soil Moisture": 336,
+        "Soil Temperature": 22,
+        "Temperature": 25,
+        "Humidity": 60,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700ceb",
+        "CropType": 2,
+        "CropDays": 87,
+        "Soil Moisture": 254,
+        "Soil Temperature": 23,
+        "Temperature": 24,
+        "Humidity": 61,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cec",
+        "CropType": 2,
+        "CropDays": 89,
+        "Soil Moisture": 159,
+        "Soil Temperature": 23,
+        "Temperature": 24,
+        "Humidity": 59,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700ced",
+        "CropType": 2,
+        "CropDays": 91,
+        "Soil Moisture": 101,
+        "Soil Temperature": 24,
+        "Temperature": 23,
+        "Humidity": 58,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cee",
+        "CropType": 2,
+        "CropDays": 93,
+        "Soil Moisture": 425,
+        "Soil Temperature": 20,
+        "Temperature": 23,
+        "Humidity": 58,
+        "Irrigation(Y/N)": 1
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cef",
+        "CropType": 2,
+        "CropDays": 95,
+        "Soil Moisture": 321,
+        "Soil Temperature": 22,
+        "Temperature": 24,
+        "Humidity": 59,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cf0",
+        "CropType": 2,
+        "CropDays": 97,
+        "Soil Moisture": 214,
+        "Soil Temperature": 23,
+        "Temperature": 23,
+        "Humidity": 61,
+        "Irrigation(Y/N)": 0
+    },
+    {
+        "_id": "6682aa6e3288b9f267700cf1",
+        "CropType": 2,
+        "CropDays": 99,
+        "Soil Moisture": 103,
+        "Soil Temperature": 24,
+        "Temperature": 23,
+        "Humidity": 58,
+        "Irrigation(Y/N)": 0
+    }
+]
